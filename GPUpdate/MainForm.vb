@@ -11,13 +11,9 @@ Public Class MainForm
         'Dim openCMD
         'openCMD = Process.Start("cmd.exe")
 
-
-
         ' Send text to CMD?
         'Dim strCMDcommand As String = "whoami"
         'SendKeys.Send(strCMDcommand)
-
-
 
         ' Define computername
         ' Dim strComputerName As String

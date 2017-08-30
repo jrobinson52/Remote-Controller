@@ -5,5 +5,11 @@
     <Setting Name="DRAServername" Type="System.String" Scope="User">
       <Value Profile="(Default)">tmm.na.corp.toyota.com</Value>
     </Setting>
+    <Setting Name="UID" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
   </Settings>
 </SettingsFile>
